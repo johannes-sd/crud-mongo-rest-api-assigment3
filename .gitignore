@@ -1,3 +1,4 @@
-./node_modules
-./notater
-./huske_scripts
+node_modules/
+huske_scripts/
+notater/
+startDB.bat
